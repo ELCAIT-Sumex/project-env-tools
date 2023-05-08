@@ -4305,6 +4305,11 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.0.0/node-v20.0.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.0.0/node-v20.0.0-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.0.0/node-v20.0.0-linux-x64.tar.xz"
+    },
+    "20.1.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.1.0/node-v20.1.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.1.0/node-v20.1.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.1.0/node-v20.1.0-linux-x64.tar.xz"
     }
   }
 }
