@@ -259,6 +259,11 @@
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-17.0.8/graalvm-community-jdk-17.0.8_macos-x64_bin.tar.gz",
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-17.0.8/graalvm-community-jdk-17.0.8_windows-x64_bin.zip",
         "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-17.0.8/graalvm-community-jdk-17.0.8_linux-x64_bin.tar.gz"
+      },
+      "23.0.2": {
+        "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-17.0.9/graalvm-community-jdk-17.0.9_macos-x64_bin.tar.gz",
+        "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-17.0.9/graalvm-community-jdk-17.0.9_windows-x64_bin.zip",
+        "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-17.0.9/graalvm-community-jdk-17.0.9_linux-x64_bin.tar.gz"
       }
     },
     "graalvm_ce19": {
@@ -290,6 +295,11 @@
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.0/graalvm-community-jdk-21.0.0_macos-x64_bin.tar.gz",
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.0/graalvm-community-jdk-21.0.0_windows-x64_bin.zip",
         "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.0/graalvm-community-jdk-21.0.0_linux-x64_bin.tar.gz"
+      },
+      "23.1.1": {
+        "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.1/graalvm-community-jdk-21.0.1_macos-x64_bin.tar.gz",
+        "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.1/graalvm-community-jdk-21.0.1_windows-x64_bin.zip",
+        "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-21.0.1/graalvm-community-jdk-21.0.1_linux-x64_bin.tar.gz"
       }
     },
     "graalvm_ce8": {
@@ -459,6 +469,11 @@
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1%2B1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.zip",
         "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin11-binaries/releases/download/jdk-11.0.20.1%2B1/OpenJDK11U-jdk_x64_linux_hotspot_11.0.20.1_1.tar.gz"
       },
+      "11.0.21+9": {
+        "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jdk_x64_mac_hotspot_11.0.21_9.tar.gz",
+        "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.21_9.zip",
+        "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin11-binaries/releases/download/jdk-11.0.21%2B9/OpenJDK11U-jdk_x64_linux_hotspot_11.0.21_9.tar.gz"
+      },
       "16.0.2+7": {
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x64_mac_hotspot_16.0.2_7.tar.gz",
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x64_windows_hotspot_16.0.2_7.zip",
@@ -513,6 +528,13 @@
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin17-binaries/releases/download/jdk-17.0.8.1%2B1/OpenJDK17U-jdk_x64_mac_hotspot_17.0.8.1_1.tar.gz",
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin17-binaries/releases/download/jdk-17.0.8.1%2B1/OpenJDK17U-jdk_x64_windows_hotspot_17.0.8.1_1.zip",
         "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin17-binaries/releases/download/jdk-17.0.8.1%2B1/OpenJDK17U-jdk_x64_linux_hotspot_17.0.8.1_1.tar.gz"
+      },
+      "17.0.9+9": {
+        "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9/OpenJDK17U-jdk_x64_mac_hotspot_17.0.9_9.tar.gz",
+        "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9/OpenJDK17U-jdk_x64_linux_hotspot_17.0.9_9.tar.gz"
+      },
+      "17.0.9+9.1": {
+        "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin17-binaries/releases/download/jdk-17.0.9%2B9.1/OpenJDK17U-jdk_x64_windows_hotspot_17.0.9_9.zip"
       },
       "18+36": {
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin18-binaries/releases/download/jdk-18%2B36/OpenJDK18U-jdk_x64_mac_hotspot_18_36.tar.gz",
@@ -569,6 +591,11 @@
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin21-binaries/releases/download/jdk-21%2B35/OpenJDK21U-jdk_x64_windows_hotspot_21_35.zip",
         "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin21-binaries/releases/download/jdk-21%2B35/OpenJDK21U-jdk_x64_linux_hotspot_21_35.tar.gz"
       },
+      "21.0.1+12": {
+        "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jdk_x64_mac_hotspot_21.0.1_12.tar.gz",
+        "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jdk_x64_windows_hotspot_21.0.1_12.zip",
+        "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin21-binaries/releases/download/jdk-21.0.1%2B12/OpenJDK21U-jdk_x64_linux_hotspot_21.0.1_12.tar.gz"
+      },
       "8.0.302+8": {
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jdk_x64_mac_hotspot_8u302b08.tar.gz",
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u302b08.zip",
@@ -617,6 +644,11 @@
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u382-b05/OpenJDK8U-jdk_x64_mac_hotspot_8u382b05.tar.gz",
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u382-b05/OpenJDK8U-jdk_x64_windows_hotspot_8u382b05.zip",
         "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u382-b05/OpenJDK8U-jdk_x64_linux_hotspot_8u382b05.tar.gz"
+      },
+      "8.0.392+8": {
+        "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x64_mac_hotspot_8u392b08.tar.gz",
+        "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u392b08.zip",
+        "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x64_linux_hotspot_8u392b08.tar.gz"
       }
     }
   },
@@ -4520,6 +4552,21 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.8.1/node-v20.8.1-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.8.1/node-v20.8.1-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.8.1/node-v20.8.1-linux-x64.tar.xz"
+    },
+    "20.9.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.9.0/node-v20.9.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.9.0/node-v20.9.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.9.0/node-v20.9.0-linux-x64.tar.xz"
+    },
+    "21.0.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.0.0/node-v21.0.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.0.0/node-v21.0.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.0.0/node-v21.0.0-linux-x64.tar.xz"
+    },
+    "21.1.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.1.0/node-v21.1.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.1.0/node-v21.1.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.1.0/node-v21.1.0-linux-x64.tar.xz"
     }
   }
 }
