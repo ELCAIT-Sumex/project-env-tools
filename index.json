@@ -849,7 +849,8 @@
     "8.2": "https://downloads.gradle.org/distributions/gradle-8.2-bin.zip",
     "8.2.1": "https://downloads.gradle.org/distributions/gradle-8.2.1-bin.zip",
     "8.3": "https://downloads.gradle.org/distributions/gradle-8.3-bin.zip",
-    "8.4": "https://downloads.gradle.org/distributions/gradle-8.4-bin.zip"
+    "8.4": "https://downloads.gradle.org/distributions/gradle-8.4-bin.zip",
+    "8.5": "https://downloads.gradle.org/distributions/gradle-8.5-bin.zip"
   },
   "mavenVersions": {
     "3.0.4": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.0.4/binaries/apache-maven-3.0.4-bin.zip",
@@ -884,7 +885,8 @@
     "3.9.2": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.2/binaries/apache-maven-3.9.2-bin.zip",
     "3.9.3": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.3/binaries/apache-maven-3.9.3-bin.zip",
     "3.9.4": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.4/binaries/apache-maven-3.9.4-bin.zip",
-    "3.9.5": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.5/binaries/apache-maven-3.9.5-bin.zip"
+    "3.9.5": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.5/binaries/apache-maven-3.9.5-bin.zip",
+    "3.9.6": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip"
   },
   "mvndVersions": {
     "0.0.10": {
@@ -4423,6 +4425,11 @@
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.18.2/node-v18.18.2-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.18.2/node-v18.18.2-linux-x64.tar.xz"
     },
+    "18.19.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.19.0/node-v18.19.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.19.0/node-v18.19.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.19.0/node-v18.19.0-linux-x64.tar.xz"
+    },
     "19.0.0": {
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v19.0.0/node-v19.0.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v19.0.0/node-v19.0.0-win-x64.zip",
@@ -4577,6 +4584,11 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.2.0/node-v21.2.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.2.0/node-v21.2.0-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.2.0/node-v21.2.0-linux-x64.tar.xz"
+    },
+    "21.3.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.3.0/node-v21.3.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.3.0/node-v21.3.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.3.0/node-v21.3.0-linux-x64.tar.xz"
     }
   }
 }
