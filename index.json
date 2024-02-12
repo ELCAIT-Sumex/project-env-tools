@@ -869,6 +869,7 @@
     "7.6.1": "https://downloads.gradle.org/distributions/gradle-7.6.1-bin.zip",
     "7.6.2": "https://downloads.gradle.org/distributions/gradle-7.6.2-bin.zip",
     "7.6.3": "https://downloads.gradle.org/distributions/gradle-7.6.3-bin.zip",
+    "7.6.4": "https://downloads.gradle.org/distributions/gradle-7.6.4-bin.zip",
     "8.0": "https://downloads.gradle.org/distributions/gradle-8.0-bin.zip",
     "8.0.1": "https://downloads.gradle.org/distributions/gradle-8.0.1-bin.zip",
     "8.0.2": "https://downloads.gradle.org/distributions/gradle-8.0.2-bin.zip",
@@ -878,7 +879,8 @@
     "8.2.1": "https://downloads.gradle.org/distributions/gradle-8.2.1-bin.zip",
     "8.3": "https://downloads.gradle.org/distributions/gradle-8.3-bin.zip",
     "8.4": "https://downloads.gradle.org/distributions/gradle-8.4-bin.zip",
-    "8.5": "https://downloads.gradle.org/distributions/gradle-8.5-bin.zip"
+    "8.5": "https://downloads.gradle.org/distributions/gradle-8.5-bin.zip",
+    "8.6": "https://downloads.gradle.org/distributions/gradle-8.6-bin.zip"
   },
   "mavenVersions": {
     "3.0.4": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.0.4/binaries/apache-maven-3.0.4-bin.zip",
