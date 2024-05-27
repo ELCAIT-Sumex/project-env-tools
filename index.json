@@ -967,7 +967,8 @@
     "3.9.3": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.3/binaries/apache-maven-3.9.3-bin.zip",
     "3.9.4": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.4/binaries/apache-maven-3.9.4-bin.zip",
     "3.9.5": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.5/binaries/apache-maven-3.9.5-bin.zip",
-    "3.9.6": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip"
+    "3.9.6": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip",
+    "3.9.7": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.7/binaries/apache-maven-3.9.7-bin.zip"
   },
   "mvndVersions": {
     "0.0.10": {
@@ -4530,6 +4531,11 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.2/node-v18.20.2-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.2/node-v18.20.2-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.2/node-v18.20.2-linux-x64.tar.xz"
+    },
+    "18.20.3": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.3/node-v18.20.3-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.3/node-v18.20.3-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.3/node-v18.20.3-linux-x64.tar.xz"
     },
     "19.0.0": {
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v19.0.0/node-v19.0.0-darwin-x64.tar.xz",
