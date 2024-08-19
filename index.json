@@ -963,7 +963,8 @@
     "8.6": "https://downloads.gradle.org/distributions/gradle-8.6-bin.zip",
     "8.7": "https://downloads.gradle.org/distributions/gradle-8.7-bin.zip",
     "8.8": "https://downloads.gradle.org/distributions/gradle-8.8-bin.zip",
-    "8.9": "https://downloads.gradle.org/distributions/gradle-8.9-bin.zip"
+    "8.9": "https://downloads.gradle.org/distributions/gradle-8.9-bin.zip",
+    "8.10": "https://downloads.gradle.org/distributions/gradle-8.10-bin.zip"
   },
   "mavenVersions": {
     "3.0.4": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.0.4/binaries/apache-maven-3.0.4-bin.zip",
@@ -1001,7 +1002,8 @@
     "3.9.5": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.5/binaries/apache-maven-3.9.5-bin.zip",
     "3.9.6": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip",
     "3.9.7": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.7/binaries/apache-maven-3.9.7-bin.zip",
-    "3.9.8": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.8/binaries/apache-maven-3.9.8-bin.zip"
+    "3.9.8": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.8/binaries/apache-maven-3.9.8-bin.zip",
+    "3.9.9": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip"
   },
   "mvndVersions": {
     "0.0.10": {
