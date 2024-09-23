@@ -324,6 +324,13 @@
         "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-22.0.2/graalvm-community-jdk-22.0.2_linux-x64_bin.tar.gz"
       }
     },
+    "graalvm_ce23": {
+      "24.1.0": {
+        "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-23.0.0/graalvm-community-jdk-23.0.0_macos-x64_bin.tar.gz",
+        "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-23.0.0/graalvm-community-jdk-23.0.0_windows-x64_bin.zip",
+        "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-23.0.0/graalvm-community-jdk-23.0.0_linux-x64_bin.tar.gz"
+      }
+    },
     "graalvm_ce8": {
       "19.3.0": {
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/vm-19.3.0/graalvm-ce-java8-darwin-amd64-19.3.0.tar.gz",
@@ -681,6 +688,11 @@
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_x64_windows_hotspot_22.0.2_9.zip",
         "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_x64_linux_hotspot_22.0.2_9.tar.gz"
       },
+      "23+37": {
+        "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jdk_x64_mac_hotspot_23_37.tar.gz",
+        "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jdk_x64_windows_hotspot_23_37.zip",
+        "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jdk_x64_linux_hotspot_23_37.tar.gz"
+      },
       "8.0.302+8": {
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jdk_x64_mac_hotspot_8u302b08.tar.gz",
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u302b08.zip",
@@ -808,6 +820,14 @@
       "GraalVM_CE22",
       "graalvm_ce22",
       "graalvmce22"
+    ],
+    "graalvm_ce23": [
+      "Graal VM CE 23",
+      "GraalVM CE 23",
+      "GraalVMCE23",
+      "GraalVM_CE23",
+      "graalvm_ce23",
+      "graalvmce23"
     ],
     "graalvm_ce8": [
       "Graal VM CE 8",
@@ -4897,6 +4917,11 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.8.0/node-v22.8.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.8.0/node-v22.8.0-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.8.0/node-v22.8.0-linux-x64.tar.xz"
+    },
+    "22.9.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.9.0/node-v22.9.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.9.0/node-v22.9.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.9.0/node-v22.9.0-linux-x64.tar.xz"
     }
   }
 }
