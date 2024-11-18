@@ -1009,7 +1009,8 @@
     "8.9": "https://downloads.gradle.org/distributions/gradle-8.9-bin.zip",
     "8.10": "https://downloads.gradle.org/distributions/gradle-8.10-bin.zip",
     "8.10.1": "https://downloads.gradle.org/distributions/gradle-8.10.1-bin.zip",
-    "8.10.2": "https://downloads.gradle.org/distributions/gradle-8.10.2-bin.zip"
+    "8.10.2": "https://downloads.gradle.org/distributions/gradle-8.10.2-bin.zip",
+    "8.11": "https://downloads.gradle.org/distributions/gradle-8.11-bin.zip"
   },
   "mavenVersions": {
     "3.0.4": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.0.4/binaries/apache-maven-3.0.4-bin.zip",
@@ -3457,6 +3458,11 @@
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.4/node-v18.20.4-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.4/node-v18.20.4-linux-x64.tar.xz"
     },
+    "18.20.5": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.5/node-v18.20.5-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.5/node-v18.20.5-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.5/node-v18.20.5-linux-x64.tar.xz"
+    },
     "19.0.0": {
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v19.0.0/node-v19.0.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v19.0.0/node-v19.0.0-win-x64.zip",
@@ -3806,6 +3812,11 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v23.1.0/node-v23.1.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v23.1.0/node-v23.1.0-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v23.1.0/node-v23.1.0-linux-x64.tar.xz"
+    },
+    "23.2.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v23.2.0/node-v23.2.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v23.2.0/node-v23.2.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v23.2.0/node-v23.2.0-linux-x64.tar.xz"
     }
   }
 }
