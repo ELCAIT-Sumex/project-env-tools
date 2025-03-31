@@ -821,6 +821,11 @@
         "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_x64_mac_hotspot_23.0.2_7.tar.gz",
         "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_x64_windows_hotspot_23.0.2_7.zip",
         "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_x64_linux_hotspot_23.0.2_7.tar.gz"
+      },
+      "24+36": {
+        "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jdk_x64_mac_hotspot_24_36.tar.gz",
+        "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jdk_x64_windows_hotspot_24_36.zip",
+        "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jdk_x64_linux_hotspot_24_36.tar.gz"
       }
     }
   },
@@ -3521,6 +3526,11 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.7/node-v18.20.7-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.7/node-v18.20.7-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.7/node-v18.20.7-linux-x64.tar.xz"
+    },
+    "18.20.8": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.8/node-v18.20.8-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.8/node-v18.20.8-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v18.20.8/node-v18.20.8-linux-x64.tar.xz"
     },
     "19.0.0": {
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v19.0.0/node-v19.0.0-darwin-x64.tar.xz",
