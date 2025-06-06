@@ -13,11 +13,11 @@ jobs:
     - run: |
         curl https://raw.githubusercontent.com/Project-Env/project-env-tools/main/index.json -o index.json
         sed -i 's/https:\/\/github.com/https:\/\/artifactory.svc.elca.ch\/artifactory\/github-releases/g' index.json
-        sed -i 's/https:\/\/archive.apache.org\/dist/https:\/\/artifactory.svc.elca.ch\/artifactory\/apache-archive/g' index.json
+        sed -i 's/https:\/\/archive.apache.org\/dist/https:\/\/artifactory.svc.elca.ch\/artifactory\/apache-downloads/g' index.json
         sed -i 's/https:\/\/nodejs.org\/dist/https:\/\/artifactory.svc.elca.ch\/artifactory\/node-dist/g' index.json
         curl https://raw.githubusercontent.com/Project-Env/project-env-tools/main/index-v2.json -o index-v2.json
         sed -i 's/https:\/\/github.com/https:\/\/artifactory.svc.elca.ch\/artifactory\/github-releases/g' index-v2.json
-        sed -i 's/https:\/\/archive.apache.org\/dist/https:\/\/artifactory.svc.elca.ch\/artifactory\/apache-archive/g' index-v2.json
+        sed -i 's/https:\/\/archive.apache.org\/dist/https:\/\/artifactory.svc.elca.ch\/artifactory\/apache-downloads/g' index-v2.json
         sed -i 's/https:\/\/nodejs.org\/dist/https:\/\/artifactory.svc.elca.ch\/artifactory\/node-dist/g' index-v2.json
     - uses: peter-evans/create-pull-request@v7
       with:
