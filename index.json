@@ -3803,6 +3803,11 @@
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.19.2/node-v20.19.2-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.19.2/node-v20.19.2-linux-x64.tar.xz"
     },
+    "20.19.3": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.19.3/node-v20.19.3-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.19.3/node-v20.19.3-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v20.19.3/node-v20.19.3-linux-x64.tar.xz"
+    },
     "21.0.0": {
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.0.0/node-v21.0.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v21.0.0/node-v21.0.0-win-x64.zip",
@@ -3973,6 +3978,11 @@
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.16.0/node-v22.16.0-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.16.0/node-v22.16.0-linux-x64.tar.xz"
     },
+    "22.17.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.17.0/node-v22.17.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.17.0/node-v22.17.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.17.0/node-v22.17.0-linux-x64.tar.xz"
+    },
     "23.0.0": {
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v23.0.0/node-v23.0.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v23.0.0/node-v23.0.0-win-x64.zip",
@@ -4067,6 +4077,11 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.2.0/node-v24.2.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.2.0/node-v24.2.0-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.2.0/node-v24.2.0-linux-x64.tar.xz"
+    },
+    "24.3.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.3.0/node-v24.3.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.3.0/node-v24.3.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.3.0/node-v24.3.0-linux-x64.tar.xz"
     }
   }
 }
