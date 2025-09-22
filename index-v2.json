@@ -855,6 +855,21 @@
         }
       }
     },
+    "graalvm_ce25": {
+      "25.0.0": {
+        "macos": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.0/graalvm-community-jdk-25.0.0_macos-x64_bin.tar.gz",
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.0/graalvm-community-jdk-25.0.0_macos-aarch64_bin.tar.gz"
+        },
+        "windows": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.0/graalvm-community-jdk-25.0.0_windows-x64_bin.zip"
+        },
+        "linux": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.0/graalvm-community-jdk-25.0.0_linux-x64_bin.tar.gz",
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.0/graalvm-community-jdk-25.0.0_linux-aarch64_bin.tar.gz"
+        }
+      }
+    },
     "graalvm_ce8": {
       "19.3.0": {
         "macos": {
@@ -2231,6 +2246,14 @@
       "graalvm_ce24",
       "graalvmce24"
     ],
+    "graalvm_ce25": [
+      "Graal VM CE 25",
+      "GraalVM CE 25",
+      "GraalVMCE25",
+      "GraalVM_CE25",
+      "graalvm_ce25",
+      "graalvmce25"
+    ],
     "graalvm_ce8": [
       "Graal VM CE 8",
       "GraalVM CE 8",
@@ -2400,7 +2423,8 @@
     "8.14.1": "https://downloads.gradle.org/distributions/gradle-8.14.1-bin.zip",
     "8.14.2": "https://downloads.gradle.org/distributions/gradle-8.14.2-bin.zip",
     "8.14.3": "https://downloads.gradle.org/distributions/gradle-8.14.3-bin.zip",
-    "9.0.0": "https://downloads.gradle.org/distributions/gradle-9.0.0-bin.zip"
+    "9.0.0": "https://downloads.gradle.org/distributions/gradle-9.0.0-bin.zip",
+    "9.1.0": "https://downloads.gradle.org/distributions/gradle-9.1.0-bin.zip"
   },
   "mavenVersions": {
     "3.0.4": "https://artifactory.svc.elca.ch/artifactory/apache-archive/maven/maven-3/3.0.4/binaries/apache-maven-3.0.4-bin.zip",
