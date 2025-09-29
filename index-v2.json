@@ -2170,6 +2170,19 @@
           "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jdk_x64_linux_hotspot_24.0.2_12.tar.gz",
           "aarch64": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jdk_aarch64_linux_hotspot_24.0.2_12.tar.gz"
         }
+      },
+      "25+36": {
+        "macos": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jdk_x64_mac_hotspot_25_36.tar.gz",
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jdk_aarch64_mac_hotspot_25_36.tar.gz"
+        },
+        "windows": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jdk_x64_windows_hotspot_25_36.zip"
+        },
+        "linux": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jdk_x64_linux_hotspot_25_36.tar.gz",
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/github-releases/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jdk_aarch64_linux_hotspot_25_36.tar.gz"
+        }
       }
     }
   },
@@ -8905,6 +8918,18 @@
         "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.19.0/node-v22.19.0-linux-x64.tar.xz"
       }
     },
+    "22.20.0": {
+      "macos": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.20.0/node-v22.20.0-darwin-x64.tar.xz",
+        "aarch64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.20.0/node-v22.20.0-darwin-arm64.tar.xz"
+      },
+      "windows": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.20.0/node-v22.20.0-win-x64.zip"
+      },
+      "linux": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v22.20.0/node-v22.20.0-linux-x64.tar.xz"
+      }
+    },
     "23.0.0": {
       "macos": {
         "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v23.0.0/node-v23.0.0-darwin-x64.tar.xz",
@@ -9216,6 +9241,18 @@
       "linux": {
         "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.8.0/node-v24.8.0-linux-x64.tar.xz"
       }
+    },
+    "24.9.0": {
+      "macos": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.9.0/node-v24.9.0-darwin-x64.tar.xz",
+        "aarch64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.9.0/node-v24.9.0-darwin-arm64.tar.xz"
+      },
+      "windows": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.9.0/node-v24.9.0-win-x64.zip"
+      },
+      "linux": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.9.0/node-v24.9.0-linux-x64.tar.xz"
+      }
     }
   },
   "clojureVersions": {
@@ -9443,6 +9480,16 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/clojure/brew-install/releases/download/1.12.2.1565/clojure-tools-1.12.2.1565.tar.gz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/clojure/brew-install/releases/download/1.12.2.1565/clojure-tools.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/clojure/brew-install/releases/download/1.12.2.1565/clojure-tools-1.12.2.1565.tar.gz"
+    },
+    "1.12.2.1571": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/clojure/brew-install/releases/download/1.12.2.1571/clojure-tools-1.12.2.1571.tar.gz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/clojure/brew-install/releases/download/1.12.2.1571/clojure-tools.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/clojure/brew-install/releases/download/1.12.2.1571/clojure-tools-1.12.2.1571.tar.gz"
+    },
+    "1.12.3.1577": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/github-releases/clojure/brew-install/releases/download/1.12.3.1577/clojure-tools-1.12.3.1577.tar.gz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/github-releases/clojure/brew-install/releases/download/1.12.3.1577/clojure-tools.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/github-releases/clojure/brew-install/releases/download/1.12.3.1577/clojure-tools-1.12.3.1577.tar.gz"
     }
   }
 }
