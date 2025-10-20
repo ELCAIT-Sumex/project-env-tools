@@ -4208,6 +4208,11 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.10.0/node-v24.10.0-darwin-x64.tar.xz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.10.0/node-v24.10.0-win-x64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v24.10.0/node-v24.10.0-linux-x64.tar.xz"
+    },
+    "25.0.0": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/node-dist/v25.0.0/node-v25.0.0-darwin-x64.tar.xz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/node-dist/v25.0.0/node-v25.0.0-win-x64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/node-dist/v25.0.0/node-v25.0.0-linux-x64.tar.xz"
     }
   }
 }
