@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v6
     - run: |
         curl https://raw.githubusercontent.com/Project-Env/project-env-tools/main/index.json -o index.json
         sed -i 's/https:\/\/github.com/https:\/\/artifactory.svc.elca.ch\/artifactory\/github-releases/g' index.json
