@@ -21,7 +21,7 @@ jobs:
         sed -i 's/https:\/\/archive.apache.org\/dist/https:\/\/artifactory.svc.elca.ch\/artifactory\/apache-archive/g' index-v2.json
         sed -i 's/https:\/\/downloads.apache.org/https:\/\/artifactory.svc.elca.ch\/artifactory\/apache-downloads/g' index-v2.json
         sed -i 's/https:\/\/nodejs.org\/dist/https:\/\/artifactory.svc.elca.ch\/artifactory\/node-dist/g' index-v2.json
-    - uses: peter-evans/create-pull-request@v7
+    - uses: peter-evans/create-pull-request@v8
       with:
         title: 'update tools index'
         body: 'Updated tools index with latest info'
