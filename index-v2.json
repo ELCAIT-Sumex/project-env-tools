@@ -881,6 +881,18 @@
           "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.1/graalvm-community-jdk-25.0.1_linux-x64_bin.tar.gz",
           "aarch64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.1/graalvm-community-jdk-25.0.1_linux-aarch64_bin.tar.gz"
         }
+      },
+      "25.0.2": {
+        "macos": {
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.2/graalvm-community-jdk-25.0.2_macos-aarch64_bin.tar.gz"
+        },
+        "windows": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.2/graalvm-community-jdk-25.0.2_windows-x64_bin.zip"
+        },
+        "linux": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.2/graalvm-community-jdk-25.0.2_linux-x64_bin.tar.gz",
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/github-releases/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.2/graalvm-community-jdk-25.0.2_linux-aarch64_bin.tar.gz"
+        }
       }
     },
     "graalvm_ce8": {
@@ -9515,6 +9527,18 @@
       },
       "linux": {
         "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v25.3.0/node-v25.3.0-linux-x64.tar.xz"
+      }
+    },
+    "25.4.0": {
+      "macos": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v25.4.0/node-v25.4.0-darwin-x64.tar.xz",
+        "aarch64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v25.4.0/node-v25.4.0-darwin-arm64.tar.xz"
+      },
+      "windows": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v25.4.0/node-v25.4.0-win-x64.zip"
+      },
+      "linux": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/node-dist/v25.4.0/node-v25.4.0-linux-x64.tar.xz"
       }
     }
   },
