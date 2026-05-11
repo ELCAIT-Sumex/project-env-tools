@@ -1348,6 +1348,15 @@
           "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jdk_aarch64_linux_hotspot_8u482b08.tar.gz"
         }
       },
+      "8.0.492+9": {
+        "macos": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_x64_mac_hotspot_8u492b09.tar.gz"
+        },
+        "linux": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_x64_linux_hotspot_8u492b09.tar.gz",
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_aarch64_linux_hotspot_8u492b09.tar.gz"
+        }
+      },
       "11.0.12+7": {
         "macos": {
           "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin11-binaries/releases/download/jdk-11.0.12%2B7/OpenJDK11U-jdk_x64_mac_hotspot_11.0.12_7.tar.gz"
@@ -1920,6 +1929,9 @@
           "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jdk_x64_mac_hotspot_17.0.19_10.tar.gz",
           "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.19_10.tar.gz"
         },
+        "windows": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jdk_x64_windows_hotspot_17.0.19_10.zip"
+        },
         "linux": {
           "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jdk_x64_linux_hotspot_17.0.19_10.tar.gz",
           "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jdk_aarch64_linux_hotspot_17.0.19_10.tar.gz"
@@ -2400,6 +2412,16 @@
           "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26%2B35/OpenJDK26U-jdk_x64_linux_hotspot_26_35.tar.gz",
           "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26%2B35/OpenJDK26U-jdk_aarch64_linux_hotspot_26_35.tar.gz"
         }
+      },
+      "26.0.1+8": {
+        "macos": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_x64_mac_hotspot_26.0.1_8.tar.gz",
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_aarch64_mac_hotspot_26.0.1_8.tar.gz"
+        },
+        "linux": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_x64_linux_hotspot_26.0.1_8.tar.gz",
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_aarch64_linux_hotspot_26.0.1_8.tar.gz"
+        }
       }
     }
   },
@@ -2654,6 +2676,7 @@
     "8.14.2": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v8.14.2/gradle-8.14.2-bin.zip",
     "8.14.3": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v8.14.3/gradle-8.14.3-bin.zip",
     "8.14.4": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v8.14.4/gradle-8.14.4-bin.zip",
+    "8.14.5": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v8.14.5/gradle-8.14.5-bin.zip",
     "9.0.0": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v9.0.0/gradle-9.0.0-bin.zip",
     "9.1.0": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v9.1.0/gradle-9.1.0-bin.zip",
     "9.2.0": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v9.2.0/gradle-9.2.0-bin.zip",
@@ -11421,6 +11444,19 @@
       "linux": {
         "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v25.9.0/node-v25.9.0-linux-x64.tar.xz",
         "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v25.9.0/node-v25.9.0-linux-arm64.tar.xz"
+      }
+    },
+    "26.0.0": {
+      "macos": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.0.0/node-v26.0.0-darwin-x64.tar.xz",
+        "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.0.0/node-v26.0.0-darwin-arm64.tar.xz"
+      },
+      "windows": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.0.0/node-v26.0.0-win-x64.zip"
+      },
+      "linux": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.0.0/node-v26.0.0-linux-x64.tar.xz",
+        "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.0.0/node-v26.0.0-linux-arm64.tar.xz"
       }
     }
   },
