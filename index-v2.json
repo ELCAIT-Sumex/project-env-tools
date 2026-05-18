@@ -1352,6 +1352,9 @@
         "macos": {
           "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_x64_mac_hotspot_8u492b09.tar.gz"
         },
+        "windows": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_x64_windows_hotspot_8u492b09.zip"
+        },
         "linux": {
           "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_x64_linux_hotspot_8u492b09.tar.gz",
           "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_aarch64_linux_hotspot_8u492b09.tar.gz"
@@ -2222,7 +2225,8 @@
           "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.11_10.tar.gz"
         },
         "windows": {
-          "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_x64_windows_hotspot_21.0.11_10.zip"
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_x64_windows_hotspot_21.0.11_10.zip",
+          "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.11_10.zip"
         },
         "linux": {
           "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_x64_linux_hotspot_21.0.11_10.tar.gz",
@@ -2417,6 +2421,9 @@
         "macos": {
           "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_x64_mac_hotspot_26.0.1_8.tar.gz",
           "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_aarch64_mac_hotspot_26.0.1_8.tar.gz"
+        },
+        "windows": {
+          "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_x64_windows_hotspot_26.0.1_8.zip"
         },
         "linux": {
           "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jdk_x64_linux_hotspot_26.0.1_8.tar.gz",
@@ -2685,7 +2692,8 @@
     "9.3.1": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v9.3.1/gradle-9.3.1-bin.zip",
     "9.4.0": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v9.4.0/gradle-9.4.0-bin.zip",
     "9.4.1": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v9.4.1/gradle-9.4.1-bin.zip",
-    "9.5.0": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v9.5.0/gradle-9.5.0-bin.zip"
+    "9.5.0": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v9.5.0/gradle-9.5.0-bin.zip",
+    "9.5.1": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/gradle/gradle-distributions/releases/download/v9.5.1/gradle-9.5.1-bin.zip"
   },
   "mavenVersions": {
     "3.0.4": "https://artifactory.svc.elca.ch/artifactory/r-generic-archive-apache-org/dist/maven/maven-3/3.0.4/binaries/apache-maven-3.0.4-bin.zip",
@@ -2731,7 +2739,8 @@
     "3.9.12": "https://artifactory.svc.elca.ch/artifactory/r-generic-archive-apache-org/dist/maven/maven-3/3.9.12/binaries/apache-maven-3.9.12-bin.zip",
     "3.9.13": "https://artifactory.svc.elca.ch/artifactory/r-generic-archive-apache-org/dist/maven/maven-3/3.9.13/binaries/apache-maven-3.9.13-bin.zip",
     "3.9.14": "https://artifactory.svc.elca.ch/artifactory/r-generic-archive-apache-org/dist/maven/maven-3/3.9.14/binaries/apache-maven-3.9.14-bin.zip",
-    "3.9.15": "https://artifactory.svc.elca.ch/artifactory/r-generic-downloads-apache-org/maven/maven-3/3.9.15/binaries/apache-maven-3.9.15-bin.zip",
+    "3.9.15": "https://artifactory.svc.elca.ch/artifactory/r-generic-archive-apache-org/dist/maven/maven-3/3.9.15/binaries/apache-maven-3.9.15-bin.zip",
+    "3.9.16": "https://artifactory.svc.elca.ch/artifactory/r-generic-downloads-apache-org/maven/maven-3/3.9.16/binaries/apache-maven-3.9.16-bin.zip",
     "4.0.0-rc-1": "https://artifactory.svc.elca.ch/artifactory/r-generic-archive-apache-org/dist/maven/maven-4/4.0.0-rc-1/binaries/apache-maven-4.0.0-rc-1-bin.zip",
     "4.0.0-rc-2": "https://artifactory.svc.elca.ch/artifactory/r-generic-archive-apache-org/dist/maven/maven-4/4.0.0-rc-2/binaries/apache-maven-4.0.0-rc-2-bin.zip",
     "4.0.0-rc-3": "https://artifactory.svc.elca.ch/artifactory/r-generic-archive-apache-org/dist/maven/maven-4/4.0.0-rc-3/binaries/apache-maven-4.0.0-rc-3-bin.zip",
@@ -10796,6 +10805,19 @@
         "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v22.22.2/node-v22.22.2-linux-arm64.tar.xz"
       }
     },
+    "22.22.3": {
+      "macos": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v22.22.3/node-v22.22.3-darwin-x64.tar.xz",
+        "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v22.22.3/node-v22.22.3-darwin-arm64.tar.xz"
+      },
+      "windows": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v22.22.3/node-v22.22.3-win-x64.zip"
+      },
+      "linux": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v22.22.3/node-v22.22.3-linux-x64.tar.xz",
+        "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v22.22.3/node-v22.22.3-linux-arm64.tar.xz"
+      }
+    },
     "23.0.0": {
       "macos": {
         "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v23.0.0/node-v23.0.0-darwin-x64.tar.xz",
@@ -11458,6 +11480,19 @@
         "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.0.0/node-v26.0.0-linux-x64.tar.xz",
         "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.0.0/node-v26.0.0-linux-arm64.tar.xz"
       }
+    },
+    "26.1.0": {
+      "macos": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.1.0/node-v26.1.0-darwin-x64.tar.xz",
+        "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.1.0/node-v26.1.0-darwin-arm64.tar.xz"
+      },
+      "windows": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.1.0/node-v26.1.0-win-x64.zip"
+      },
+      "linux": {
+        "amd64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.1.0/node-v26.1.0-linux-x64.tar.xz",
+        "aarch64": "https://artifactory.svc.elca.ch/artifactory/r-generic-nodejs-org/download/release/v26.1.0/node-v26.1.0-linux-arm64.tar.xz"
+      }
     }
   },
   "clojureVersions": {
@@ -11734,6 +11769,21 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.4.1629/clojure-tools-1.12.4.1629.tar.gz",
       "windows": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.4.1629/clojure-tools.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.4.1629/clojure-tools-1.12.4.1629.tar.gz"
+    },
+    "1.12.4.1635": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.4.1635/clojure-tools-1.12.4.1635.tar.gz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.4.1635/clojure-tools.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.4.1635/clojure-tools-1.12.4.1635.tar.gz"
+    },
+    "1.12.5.1638": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.5.1638/clojure-tools-1.12.5.1638.tar.gz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.5.1638/clojure-tools.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.5.1638/clojure-tools-1.12.5.1638.tar.gz"
+    },
+    "1.12.5.1645": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.5.1645/clojure-tools-1.12.5.1645.tar.gz",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.5.1645/clojure-tools.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/clojure/brew-install/releases/download/1.12.5.1645/clojure-tools-1.12.5.1645.tar.gz"
     }
   }
 }
