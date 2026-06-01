@@ -1481,6 +1481,11 @@
       "macos": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/apache/maven-mvnd/releases/download/1.0.5/maven-mvnd-1.0.5-darwin-amd64.zip",
       "windows": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/apache/maven-mvnd/releases/download/1.0.5/maven-mvnd-1.0.5-windows-amd64.zip",
       "linux": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/apache/maven-mvnd/releases/download/1.0.5/maven-mvnd-1.0.5-linux-amd64.zip"
+    },
+    "1.0.6": {
+      "macos": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-darwin-amd64.zip",
+      "windows": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-windows-amd64.zip",
+      "linux": "https://artifactory.svc.elca.ch/artifactory/r-generic-github-com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-linux-amd64.zip"
     }
   },
   "nodeVersions": {
